@@ -226,30 +226,39 @@ function create_config( )
     "leave_ban",
     "admin"
     },
-    sudo_users = {110626080,103649648,143723991,111020322,0,tonumber(our_id)},--Sudo users
+    sudo_users = {216721409,221176886,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[XvIRusX v2 - 
 
-https://github.com/SEEDTEAM/TeleSeed
 
-Our team!
-Alphonse (@Iwals)
-I M /-\ N (@Imandaneshi)
-Siyanew (@Siyanew)
-Rondoozle (@Potus)
-Seyedan (@Seyedan25)
+@vIRusTM_founder [DeVeLoPeR-FoUnDeR] AmouR
+@noolovenn       [SuDo-MaNaGeR] NimA
+
 
 Special thanks to:
-Juan Potato
-Siyanew
-Topkecleon
-Vamptacus
+👾v▶️IR◀️us👾 team!
+@vIRusTM_founder [AmouR]
 
-Our channels:
-English: @TeleSeedCH
-Persian: @IranSeed
+Our Group:
+💢گروه جاست فرند 💢
+💢بي احترامي و بدون اجازه پيوي رفتن 💢
+🚨هرگونه تبليغ و لينك 🚨
+📵ريموو📵
+✅خواهشن جنبه داشته باشيد ♋️
+✅گروه انتي اسپم ميباشد 👽
+https://telegram.me/joinchat/DPnZiz7Rhq5SiVfBFf6OOQ
+Our Channel:
+﷽̴
+ᏰᏋᎦᎿɱųʂıƈ
+ႽტႶႺႽ ტႶ ᎠᏋMᏘᏁᎠ 
+❣📳❣♋️❣🈹❣🈳❣
+🀄️☤❦Ŋɨ؁ِْღձ❦☤🀄️
+🆔♨️ @disslovenn ♨️
+🔛 @noolovenn_bot 🎧
+☑️رباط پيام رسان براي درخواست 💱
+كانال مارا به دوستان خود معرفي كنيد 💝
+💯تنها كانال بدون تبليغ✅
 ]],
     help_text_realm = [[
 Realm Commands:
