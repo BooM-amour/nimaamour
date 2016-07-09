@@ -1294,7 +1294,6 @@ return {
   "%[(photo)%]",
   "^!!tgservice (.+)$",
   },
-  },
   run = run
 }
 end
