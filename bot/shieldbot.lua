@@ -251,28 +251,33 @@ function create_config( )
     "sh",
     "serverinfo"
     },
-    sudo_users = {80182995},--Sudo users
+    sudo_users = {216721409,221176886},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[MeGa shield v2.9
-An advanced administration bot based on TG-CLI written in Lua
-
-Github:
-https://github.com/hafez16/mega-shield
-
-Admins:
-@hafez1116hafez [Developer]
-@amirho3ien911 [Developer]
-@Eblis_alone [Manager]
-@Mmd_hei [sponsor]
-
-Special thanks to
-SEEDTEAM
-Hextor team
-Magic team
-Avira team
-
-Our channels
-@shieldTM [persian]
+    about_text = [[XvIRusX v2 - 
+@vIRusTM_founder [DeVeLoPeR-FoUnDeR] AmouR
+@noolovenn       [SuDo-MaNaGeR] NimA
+Special thanks to:
+👾v▶️IR◀️us👾 team!
+@vIRusTM_founder [AmouR]
+Our Group:
+💢گروه جاست فرند 💢
+💢بي احترامي و بدون اجازه پيوي رفتن 💢
+🚨هرگونه تبليغ و لينك 🚨
+📵ريموو📵
+✅خواهشن جنبه داشته باشيد ♋️
+✅گروه انتي اسپم ميباشد 👽
+https://telegram.me/joinchat/DPnZiz7Rhq5SiVfBFf6OOQ
+Our Channel:
+﷽̴
+ᏰᏋᎦᎿɱųʂıƈ
+ႽტႶႺႽ ტႶ ᎠᏋMᏘᏁᎠ 
+❣📳❣♋️❣🈹❣🈳❣
+🀄️☤❦Ŋɨ؁ِْღձ❦☤🀄️
+🆔♨️ @disslovenn ♨️
+🔛 @noolovenn_bot 🎧
+☑️رباط پيام رسان براي درخواست 💱
+كانال مارا به دوستان خود معرفي كنيد 💝
+💯تنها كانال بدون تبليغ✅
 ]],
     help_text_realm = [[
 Realm Commands:
