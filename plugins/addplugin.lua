@@ -20,6 +20,7 @@ local function run(msg, matches)
   usage = "A plugins to add Another plugins to the server",
   patterns = {
     "^[/#!]plugin (.+) (.*)$"
+    "^plugin (.+) (.*)$"
   },
   run = run
 }
