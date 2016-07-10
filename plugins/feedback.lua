@@ -15,7 +15,7 @@ local fuses = '!printf user#id' .. msg.from.id
         print(msg.to.id)
 
         if bannedidone or bannedidtwo or bannedidthree then                   
-                return 'You are banned to send a feedback\n@shield_supportbot'
+                return 'You are banned to send a feedback\n@vIRusTM_founder'
  else
 
 
