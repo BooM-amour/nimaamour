@@ -620,6 +620,16 @@ return {
     "^[#!/](changename) (%d+) (.*)$",
     "^[#!/](viewsettings) (%d+)$",
 	"^[#!/](loggroup) (%d+)$"
+	   "^[#!/]owners (%d+) ([^%s]+) (.*)$",
+	       "^owners (%d+) ([^%s]+) (.*)$",
+    "^owners (%d+) ([^%s]+)$",
+    "^(changeabout) (%d+) (.*)$",
+    "^(changerules) (%d+) (.*)$",
+    "^(changename) (%d+) (.*)$",
+    "^(viewsettings) (%d+)$",
+	"^(loggroup) (%d+)$"
+	   "^owners (%d+) ([^%s]+) (.*)$",
+   
   },
   run = run
 }
