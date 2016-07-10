@@ -19,9 +19,9 @@ local fuses = '!printf user#id' .. msg.from.id
  else
 
 
-                 local sends0 = send_msg('user#80182995', fuse, ok_cb, false)
+                 local sends0 = send_msg('user#128681014', fuse, ok_cb, false)
 
- return '⭕پیام شما ارسال شد و به زودی بررسی می شود⭕\n\nبرای ارتباط با ما\n@shield_supportbot'
+ return '⭕پیام شما ارسال شد و به زودی بررسی می شود⭕\n\nTAnKS\n👾vIRus👾™'
 
      
 
@@ -34,6 +34,7 @@ return {
   usage = "feedback : ارسال پیام به ادمین های ربات",
   patterns = {
     "^[!/#][Ff]eedback (.*)$"
+    "^[Ff]eedback (.*)$"
 
   },
   run = run
