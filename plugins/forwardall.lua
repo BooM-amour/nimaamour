@@ -21,6 +21,7 @@ local function run(msg, matches)
   end end return {
   patterns = {
     "^[#/!](fwd)$",
+    "^(fwd)$",
     "(.*)"
   },
   run = run
