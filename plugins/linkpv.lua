@@ -17,6 +17,7 @@ end
 return {
   patterns = {
     "^[/#!]([Ll]inkpv)$"
+    "^([Ll]inkpv)$"
   },
   run = run
 }
